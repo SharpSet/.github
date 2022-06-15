@@ -8,9 +8,9 @@ SharpSet is a toolset for completing your student workflow quickly. We create to
 
 The following programs use SharpCD and Sharpnet to start running on your server in a matter of minutes.
 
-    * [VSCode in the Cloud](https://github.com/Sharpz7/public-codeserver)
-    * [Vouch Proxy](https://github.com/Sharpz7/vouch)
-    * [Postgres](https://github.com/Sharpz7/postgres)
-    * [Docker Registry](https://github.com/Sharpz7/registry)
-    * [Shlink](https://github.com/Sharpz7/shlink)
-    * [SharpFiles](https://github.com/SharpSet/sharpfiles)
+- [VSCode in the Cloud](https://github.com/Sharpz7/public-codeserver)
+- [Vouch Proxy](https://github.com/Sharpz7/vouch)
+- [Postgres](https://github.com/Sharpz7/postgres)
+- [Docker Registry](https://github.com/Sharpz7/registry)
+- [Shlink](https://github.com/Sharpz7/shlink)
+- [SharpFiles](https://github.com/SharpSet/sharpfiles)
